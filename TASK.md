@@ -1,5 +1,7 @@
 # Technical Test: Add a Notes field to invoices
 
+Work in the `dashboard/final-example` folder.
+
 ## What to do
 
 Add an optional "Notes" field to invoices:
